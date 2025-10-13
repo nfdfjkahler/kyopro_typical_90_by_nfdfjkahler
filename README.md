@@ -1,5 +1,5 @@
-# 競プロ典型90問(solved by nfdfjkahler)
+# 競プロ典型 90 問(solved by nfdfjkahler)
 
 ## 概要
 
-備忘のために自分が書いたコードを残していく予定です。
+java(OpenJDK 17)による提出コードになります。
